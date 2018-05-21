@@ -1,0 +1,38 @@
+
+body{
+    background-color: rebeccapurple;
+    font-family:   'Franklin Gothic Medium';
+}
+
+.hide{
+    display: none;
+    
+}
+
+select{
+    margin-left: 10px;
+}
+
+#quantity0 {
+    margin-left: 45px;
+}
+
+#quantity1 {
+    margin-left: 52px;
+}
+#quantity2 {
+    margin-left: 42px;
+}
+#quantity4 {
+    margin-left: 34px;
+}
+
+#b{
+    margin:5px 0px 20px 0px;
+}
+
+.th{
+    font-size: 17px;
+    font-family: Verdana;
+    padding: 0px 10px 0px 10px;
+}
